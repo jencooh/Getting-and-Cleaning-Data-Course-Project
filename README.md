@@ -16,4 +16,5 @@ Step 5. From the data set in step 4, creates a second, independent tidy data set
 
 # Data Used
 Human Activity Recognition Using Smartphones Dataset
+
 The data was collected from the accelerometers from the Samsung Galaxy S smartphone.
